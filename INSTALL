@@ -1,0 +1,9 @@
+Building MavroCoin
+
+See doc/readme-qt.rst for instructions on building MavroCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MavroCoin.
+
+See doc/build-*.txt for instructions on building MavroCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MavroCoin.
